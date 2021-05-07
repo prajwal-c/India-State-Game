@@ -14,6 +14,7 @@ This game is basically built with **turtle graphics** with using **pandas librar
 
 ## How to run ?
 - Run the main.py file.
+- install pandas in your local environment using cmd command - **"pip install pandas"** 
 
 
 ## Additional Features
