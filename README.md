@@ -17,7 +17,7 @@ This game is basically built with **turtle graphics** with using **pandas librar
 - install pandas in your local environment using cmd command - **"pip install pandas"** 
 
 
-## Additional Features
+## Features
 - When you are not able to remember all the state names, you can type "exit", and this creates a new file named "states_to_learn.csv" which contains the list of state_names which weren't guessed. 
 
 - This project also writes the state names which are guessed properly on the map. Hence you'll get a better understanding of Geography of India.
